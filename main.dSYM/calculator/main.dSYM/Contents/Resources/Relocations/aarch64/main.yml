@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mike/repos/CPlayground/main.dSYM/calculator/main'
+relocations:     []
+...
